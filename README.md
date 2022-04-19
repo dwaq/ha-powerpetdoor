@@ -7,7 +7,7 @@ This addon was NOT made by anyone affiliated with High Tech Pet, don't bug them 
 ## Install
 
 1. Ensure Home Assistant is updated to version 2021.4.0 or newer.
-1. Use HACS, and add a [custom repository](https://github.com/corporategoth/ha-powerpetdoor)
+1. Use [HACS](https://hacs.xyz/), and add a [custom repository](https://github.com/corporategoth/ha-powerpetdoor)
 1. Search HACS integrations for Power Pet Door and install it.
 1. Once the integration is installed, restart your Home Assistant.
 1. Under Integrations, add Power Pet Door, and configure it appropriately.
